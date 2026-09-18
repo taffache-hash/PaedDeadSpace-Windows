@@ -1,0 +1,5 @@
+WINDOWS_BUILD_v1_0_0/
+*.zip
+*.exe
+.venv*/
+__pycache__/

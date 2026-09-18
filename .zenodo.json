@@ -1,0 +1,44 @@
+{
+  "title": "PaedDeadSpace: Pediatric Apparatus Dead-Space Explorer — Windows",
+  "upload_type": "software",
+  "description": "An open-source pediatric mechanical-ventilation explorer for modeling apparatus dead-space burden, alveolar ventilation, and compensatory respiratory-rate requirements.",
+  "creators": [
+    {
+      "name": "Taffache, Paolo",
+      "affiliation": "General and Pediatric Anesthesia and Intensive Care Unit, IRCCS AOU Bologna – Policlinico Sant’Orsola-Malpighi, Bologna, Italy",
+      "orcid": "0009-0002-8806-9733"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-09-18",
+  "keywords": [
+    "pediatric anesthesia",
+    "pediatric intensive care",
+    "mechanical ventilation",
+    "dead space",
+    "apparatus dead space",
+    "alveolar ventilation",
+    "respiratory physiology",
+    "medical education",
+    "open-source software"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/taffache-hash/PaedDeadSpace-Windows",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/taffache-hash/PaedDeadSpace-Core",
+      "relation": "isPartOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/taffache-hash/PaedDeadSpace-UI",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ]
+}

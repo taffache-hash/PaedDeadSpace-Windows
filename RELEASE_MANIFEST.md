@@ -13,5 +13,5 @@
 - License: MIT
 - Zenodo DOI: pending first archived release
 - Golden Pearsall benchmark: passed on the rebuilt v1.0.0 executable.
-- ZIP SHA-256: `2dd6a8fce5c0bb74f2f68f2c9747862914ed30dc131d6fd0f621c0bfbce00fc5`
-- EXE SHA-256: `d4be3526359ce32bef06989c3aaa3815eacb55bd7beec3ad8f64f81c8ca74fbe`
+- ZIP SHA-256: `d06bb2ccff9b35618d50018ffd9c1f52ae8f87358849fccdcc68ea6437f2a3bd`
+- EXE SHA-256: `86c6df38492577d2f42b3f408a35fb6409048f7555979eff5a10f82882ea849e`

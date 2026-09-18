@@ -41,7 +41,7 @@ v1.0.0 is intentionally **not digitally signed**. Windows SmartScreen may displa
 The Windows package does not alter the scientific Core. All model assumptions and limitations are those documented in PaedDeadSpace-Core. The executable is an educational/research tool, not a medical device or clinical decision-support system.
 
 ## Citation
-The PaedDeadSpace-Core Zenodo DOI is the preferred citation for the scientific project. Use the Windows DOI when specifically citing this packaged distribution.
+The PaedDeadSpace-Core concept DOI **10.5281/zenodo.22838224** is the preferred citation for the scientific project. Use the Windows DOI when specifically citing this packaged distribution.
 
 ## Author
 **Paolo Taffache** — ORCID: 0009-0002-8806-9733  

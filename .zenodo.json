@@ -39,6 +39,11 @@
       "identifier": "https://github.com/taffache-hash/PaedDeadSpace-UI",
       "relation": "isPartOf",
       "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.22838224",
+      "relation": "isPartOf",
+      "scheme": "doi"
     }
   ]
 }

@@ -511,5 +511,6 @@ with st.expander("About / Citation", expanded=False):
     st.write("License: **MIT**")
     st.write("Core repository: https://github.com/taffache-hash/PaedDeadSpace-Core")
     st.write("UI repository: https://github.com/taffache-hash/PaedDeadSpace-UI")
-    st.write("Preferred project citation: PaedDeadSpace-Core Zenodo DOI (pending first archived release).")
+    st.write("Preferred project citation: PaedDeadSpace-Core concept DOI: https://doi.org/10.5281/zenodo.22838224")
+    st.caption("Core v1.0.0 DOI: https://doi.org/10.5281/zenodo.22838225")
     st.warning("For educational and research use only. Not intended for clinical decision-making or patient-specific treatment recommendations.")

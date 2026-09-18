@@ -52,7 +52,7 @@ $exeHash=(Get-FileHash $exe -Algorithm SHA256).Hash.ToLower()
 $out=Join-Path $buildRoot "PaedDeadSpace-Windows-v1.0.0-x86_64-portable.zip"
 Compress-Archive -Path (Join-Path $dist "*") -DestinationPath $out -Force
 $zipHash=(Get-FileHash $out -Algorithm SHA256).Hash.ToLower()
-Step "BUILD COMPLETE — manual golden-case validation still required"
+Step "BUILD COMPLETE - manual golden-case validation still required"
 Write-Host "Portable ZIP: $out" -ForegroundColor Green
 Write-Host "ZIP SHA-256: $zipHash" -ForegroundColor Green
 Write-Host "EXE SHA-256: $exeHash" -ForegroundColor Green

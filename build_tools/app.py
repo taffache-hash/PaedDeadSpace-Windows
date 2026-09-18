@@ -143,7 +143,7 @@ def render_vt_composition(state: dict[str, object]) -> None:
     axis.set_xlim(0.0, float(state["vt_ml"]))
     axis.set_ylim(-0.55, 0.55)
     figure.tight_layout(pad=0.15)
-    st.pyplot(figure, use_container_width=True)
+    st.pyplot(figure, width="stretch")
     plt.close(figure)
 
     values = " | ".join(
@@ -188,7 +188,7 @@ def render_alveolar_ventilation_chart(result: dict[str, object]) -> None:
         )
 
     figure.tight_layout(pad=0.15)
-    st.pyplot(figure, use_container_width=True)
+    st.pyplot(figure, width="stretch")
     plt.close(figure)
 
     change = alveolar_ventilation_percent_change(

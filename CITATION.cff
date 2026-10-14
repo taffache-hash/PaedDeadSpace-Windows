@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If using the Windows package in scholarly work, cite its tagged release and the underlying PaedDeadSpace-Core scientific model as appropriate. See README for manuscript-listed archive identifiers and verify Zenodo records before formal DOI citation."
+message: "For reproducible scholarly use, cite this version-specific software DOI (10.5281/zenodo.22838773) and the tagged GitHub release. The scientific calculations reside in PaedDeadSpace-Core."
 title: "PaedDeadSpace: Pediatric Apparatus Dead-Space Explorer — Windows"
 type: software
 authors:
@@ -9,6 +9,7 @@ authors:
     affiliation: "General and Pediatric Anesthesia and Intensive Care Unit, IRCCS AOU Bologna – Policlinico Sant’Orsola-Malpighi, Bologna, Italy"
     email: "taffache@gmail.com"
 version: "1.0.0"
+doi: "10.5281/zenodo.22838773"
 date-released: "2026-09-18"
 license: MIT
 repository-code: "https://github.com/taffache-hash/PaedDeadSpace-Windows"

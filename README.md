@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/badge/release-v1.0.0-blue)](https://github.com/taffache-hash/PaedDeadSpace-Windows/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/Windows-10%2F11%20x86--64-blue)
-![Zenodo DOI](https://img.shields.io/badge/Zenodo%20DOI-pending-lightgrey)
+[![Windows v1.0.0 DOI cited in manuscript](https://zenodo.org/badge/DOI/10.5281/zenodo.22838773.svg)](https://doi.org/10.5281/zenodo.22838773)
 
 **PaedDeadSpace: Pediatric Apparatus Dead-Space Explorer — Windows** contains the build source and release documentation for the portable Windows distribution of **PaedDeadSpace-Core v1.0.0 + PaedDeadSpace-UI v1.0.0**.
 
@@ -41,7 +41,7 @@ v1.0.0 is intentionally **not digitally signed**. Windows SmartScreen may displa
 The Windows package does not alter the scientific Core. All model assumptions and limitations are those documented in PaedDeadSpace-Core. The executable is an educational/research tool, not a medical device or clinical decision-support system.
 
 ## Citation
-The PaedDeadSpace-Core concept DOI **10.5281/zenodo.22838224** is the preferred citation for the scientific project. Use the Windows DOI when specifically citing this packaged distribution.
+The accompanying manuscript lists the Windows v1.0.0 DOI as [10.5281/zenodo.22838773](https://doi.org/10.5281/zenodo.22838773). For the scientific model, it lists the Core concept DOI [10.5281/zenodo.22838224](https://doi.org/10.5281/zenodo.22838224) and Core v1.0.0 DOI [10.5281/zenodo.22838225](https://doi.org/10.5281/zenodo.22838225). The signed status is unchanged: the [portable Windows v1.0.0 release](https://github.com/taffache-hash/PaedDeadSpace-Windows/releases/tag/v1.0.0) remains unsigned. Confirm Zenodo landing-page metadata before formal DOI citation.
 
 ## Author
 **Paolo Taffache** — ORCID: 0009-0002-8806-9733  

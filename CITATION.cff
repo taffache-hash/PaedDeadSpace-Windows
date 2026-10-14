@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use Windows in scholarly work, please cite this software. For the scientific model as a whole, the PaedDeadSpace-Core DOI is the preferred citation once assigned by Zenodo."
+message: "If using the Windows package in scholarly work, cite its tagged release and the underlying PaedDeadSpace-Core scientific model as appropriate. See README for manuscript-listed archive identifiers and verify Zenodo records before formal DOI citation."
 title: "PaedDeadSpace: Pediatric Apparatus Dead-Space Explorer — Windows"
 type: software
 authors:
